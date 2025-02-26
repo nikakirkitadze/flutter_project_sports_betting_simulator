@@ -36,6 +36,17 @@ This application implements the following features as per the assignment require
         *   **Collapsed Game:** A subtle visual indicator (dot, badge, color change) is displayed on the game row to indicate odds have been updated since last expanded view.
 *   **Performance Optimization:** Odds updates are implemented to re-render only the affected game element, optimizing performance and preventing full list re-renders.
 
+## Screenshots - Android
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/367b1635-0691-4e2d-95ce-bf1353fc5f72" width="200" alt="Huawei P8 Lite screenshot 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/570a86de-bb68-408a-a7f7-a57e65594662" width="200" alt="Huawei P8 Lite screenshot 2"></td>
+    <td><img src="https://github.com/user-attachments/assets/614fda48-5383-4009-b3b0-26367dbb3614" width="200" alt="Huawei P8 Lite screenshot 3"></td>
+  </tr>
+</table>
+
+
 ## Architecture
 
 *   **Bloc/Cubit Architecture:** The application is structured using the **Bloc/Cubit** architectural pattern for state management.  This architecture effectively separates the application into distinct layers for improved maintainability and testability:
