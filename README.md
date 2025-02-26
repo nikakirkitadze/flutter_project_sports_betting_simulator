@@ -36,6 +36,17 @@ This application implements the following features as per the assignment require
         *   **Collapsed Game:** A subtle visual indicator (dot, badge, color change) is displayed on the game row to indicate odds have been updated since last expanded view.
 *   **Performance Optimization:** Odds updates are implemented to re-render only the affected game element, optimizing performance and preventing full list re-renders.
 
+## Screenshots - iOS
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/abc43a72-d881-4524-80f4-8167a003b2a4" width="200" alt="iOS"></td>
+    <td><img src="https://github.com/user-attachments/assets/c25fb32e-0dad-482b-aa3f-a713da820080" width="200" alt="iOS"></td>
+    <td><img src="https://github.com/user-attachments/assets/45e28083-dd20-4f2f-a96d-0e52750c002a" width="200" alt="iOS"></td>
+  </tr>
+</table>
+  
+
 ## Screenshots - Android
 
 <table>
