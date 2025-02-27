@@ -6,8 +6,6 @@ This Flutter application is a Sports Betting Simulator designed to demonstrate k
 
 ## Features
 
-This application implements the following features as per the assignment requirements:
-
 **1. Authentication Module:**
 
 *   **Login Screen:**
