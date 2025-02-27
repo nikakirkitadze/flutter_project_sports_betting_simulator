@@ -77,10 +77,8 @@ This application implements the following features as per the assignment require
 *   **Unit Tests:**  Includes unit tests for critical business logic, specifically:
     *   Authentication flows (manual and biometric login processes).
 
-## Deliverables
-
-*   **Source Code:**  Full project source code is available in a public repository on [**Please insert your GitHub repository link here**].
-*   **Android APK (Nice to have):** [**If you have provided an APK, mention it here and where to find it, e.g., "An APK file for Android installation is available in the `build/app/outputs/apk/release/app-release.apk` directory after building a release version." If not, you can remove this line.**]
+## APK
+*   An APK file for Android installation is available in the `build/app/outputs/apk/flutter-apk/app-release.apk` directory after building [https://github.com/nikakirkitadze/flutter_project_sports_betting_simulator/blob/main/build/app/outputs/flutter-apk/app-release.apk](https://github.com/nikakirkitadze/flutter_project_sports_betting_simulator/blob/main/build/app/outputs/flutter-apk/app-release.apk)
 
 ## Setup Instructions
 
