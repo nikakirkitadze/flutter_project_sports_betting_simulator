@@ -80,28 +80,7 @@ This application implements the following features as per the assignment require
 ## APK
 *   An APK file for Android installation is available in the `build/app/outputs/apk/flutter-apk/app-release.apk` directory after building [https://github.com/nikakirkitadze/flutter_project_sports_betting_simulator/blob/main/build/app/outputs/flutter-apk/app-release.apk](https://github.com/nikakirkitadze/flutter_project_sports_betting_simulator/blob/main/build/app/outputs/flutter-apk/app-release.apk)
 
-## Setup Instructions
-
-To run this Flutter application, you need to have Flutter SDK installed on your machine.
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [Your Repository Link]
-    cd sports_betting_simulator  # Or your project directory name
-    ```
-2.  **Install dependencies:**
-    ```bash
-    flutter pub get
-    ```
-3.  **Run the application:**
-    ```bash
-    flutter run
-    ```
-    Choose the target device (Android emulator/device, iOS simulator/device, or web browser).
-
 ## Assumptions and Trade-offs
-
-[**Please Document Here:**  This section is important for your assignment.  Think about any specific assumptions you made during development or any trade-offs you had to consider. For example:]
 
 *   **Dummy Authentication:**  "Authentication is implemented using dummy credentials and does not interact with a real backend service. In a production application, a secure backend authentication system would be required."
 *   **Local Data:** "Game data and odds are simulated and hardcoded or generated locally within the app. In a real-world application, this data would be fetched from a backend API."
